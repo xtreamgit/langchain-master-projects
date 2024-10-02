@@ -47,6 +47,7 @@ Welcome to the LangChain Crash Course repository! This repo contains all the cod
    ```bash
    poetry shell
    ```
+# Make sure you add this path to the Python Path. To do that, run the "poetry shell" command, copy the Spawning Shell Within URL - "/home/hector/.cache/pypoetry/virtualenvs/langchain-crash-course-rccZ5KVD-py3.11" and click the lower right corner of the screen to pull the Environment Path dialog box on the top of the screen. This process ensures that the right environment is set before any of the code can run correctly.   
 
 5. Run the code examples:
 
