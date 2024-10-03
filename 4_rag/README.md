@@ -1,3 +1,5 @@
+### **RAG:** Enhanced features to consider when developing a retrieval augmented generation (RAG) to
+### provide real time data to the chatbot.This content was created by ChatGPT 4o mini
 When developing a chatbot using Retrieval-Augmented Generation (RAG) with your company's product data, there are several features and enhancements you can consider to make the chatbot more customizable and feature-rich:
 
 ### 1. **Contextual Awareness**
